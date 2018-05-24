@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>75</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Let us hear <persName key="Williamson, Dr. John" from="?" to="?" role="surgeon" ref="https://books.google.ca/books?id=fXN5AgAAQBAJ&amp;pg=PT175&amp;lpg=PT175&amp;dq=dr.+williamson+zachary+macaulay&amp;source=bl&amp;ots=ZIJmxhsH91&amp;sig=c5Ei_-gzlHwfGoU9uYSbZu7mov8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi_-faV8Z7bAhXJ64MKHd99AB0Q6AEIMDAB#v=onepage&amp;q=dr.%20wilamp,liamson%20&amp;f=false">Dr. Williamson's</persName> testimony respecting another class of evil: -- "<interp key="many White inhabitants formed personal reltionships with females of Colour, strangers would have found this odd" n="citation is here" cert="high" ref="https://en.wikipedia.org/wiki/Treatment_of_slaves_in_the_United_States">A stranger is much surprised to observe the domestic attachments which many of the most respectable of the White inhabitants form with the females of Colour.</interp>"--"<interp key="Stereotype that Negro people's licentious apetites were uncontrollable, and it is argued this should not be kept secret" n="citation is here" cert="low" ref="https://en.wikipedia.org/wiki/Stereotypes_of_African_Americans">Among the Negroes, licentious appetites are promiscuously gratified; and the truth requires that it should not be concealed</interp>, <interp key="Estate dwelling White people are thought equally as promiscuous as the sterotyped Negro" n="citation is here" cert="med" ref="https://en.wikipedia.org/wiki/Treatment_of_slaves_in_the_United_States">the Whites on estates follow the same habits</interp>, on many occasions, to a greater extent Black or Brown mistresses are considered necessary appendages to every establishment: even a young bookkeeper, coming from <placeName key="Europe" ref="https://en.wikipedia.org/wiki/Europe">Europe</placeName>, is generally instructed to provide himself; and <interp key="anyone/everyone, regardless of otifinal moral complexion, faces the potential to succumb to this promiscuity after spending time in the New World" n="citation is here" cert="med" ref="https://en.wikipedia.org/wiki/Treatment_of_slaves_in_the_United_States">however repugnant may seem the idea at first, his scruples are overcome, and he conforms to general custom</interp>." (Vol.i. pp.42. 49.)</p>
+                <p><persName key="Williamson, Dr. John" from="?" to="?" role="surgeon" ref="https://books.google.ca/books?id=fXN5AgAAQBAJ&amp;pg=PT175&amp;lpg=PT175&amp;dq=dr.+williamson+zachary+macaulay&amp;source=bl&amp;ots=ZIJmxhsH91&amp;sig=c5Ei_-gzlHwfGoU9uYSbZu7mov8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi_-faV8Z7bAhXJ64MKHd99AB0Q6AEIMDAB#v=onepage&amp;q=dr.%20wilamp,liamson%20&amp;f=false">Dr. Williamson</persName>, after enumerating a variety of causes of disease to which the circumstances of the Negroes expose them, adds, "<interp key="basic human emotions, desires, and needs are argued to be the casue of the promiscuity, which is believed to be the source of many evils" n="citation is here" cert="med" ref="https://en.wikipedia.org/wiki/Stereotypes_of_African_Americans">Feelings of humanity and interest concur to deplore that condition of moral turpitude which has proved the source of so many evils</interp> to <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">that devoted country</placeName>."--"</interp>"--"<interp key="Stereotype that Negro people's licentious apetites were uncontrollable" n="citation is here" cert="low" ref="https://en.wikipedia.org/wiki/Stereotypes_of_African_Americans">That unrestrained habit of promiscuous intercourse, which almost universally prevails</interp> in <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>, is, in itself, an insuperable bar to population."--"<interp key="Stereotype that Negro women are particularly adverse to sexual promiscuity" n="citation is here" cert="low" ref="https://en.wikipedia.org/wiki/Stereotypes_of_African_Americans">Negro Women, in that unrestained and corrupt line of conduct they are apt to pursue, on arriving at puberty, contract habits inunical to all decency</interp>, and particularly adverse to all probability of increasing numbers on the estate." <persName key="Williamson, Dr. John" from="?" to="?" role="surgeon" ref="https://books.google.ca/books?id=fXN5AgAAQBAJ&amp;pg=PT175&amp;lpg=PT175&amp;dq=dr.+williamson+zachary+macaulay&amp;source=bl&amp;ots=ZIJmxhsH91&amp;sig=c5Ei_-gzlHwfGoU9uYSbZu7mov8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi_-faV8Z7bAhXJ64MKHd99AB0Q6AEIMDAB#v=onepage&amp;q=dr.%20wilamp,liamson%20&amp;f=false">He</persName> then proposes a <interp key="intent by Dr. Williamson to place Negroes under supervised attention until they are married, specifically to another Negro, thereby preventing sexual intercourse out of wedlock/with a White individual" n="citation is here" cert="high" ref="https://en.wikipedia.org/wiki/Treatment_of_slaves_in_the_United_States">plan for placing them under discreet superintendence, until married to persons of their own colour; and adds, somewhat obscurely, but with a dreadful significancy, "Such a course would preclude that barbarous and violent line of conduct adopted on such occasions.</interp>" (Vol.ii. pp.131. 199.)</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
