@@ -1,0 +1,10 @@
+<pre><code>1  grep &#39;\bto\b&#39; texas.txt
+2  sed -r -i.bak &#39;s/(.+\bto\b.+)/~\1/g&#39; texas.txt
+3  ls
+4  nano texas.txt
+5  grep &#39;~&#39; texas.txt &gt; index.txt
+6  nano index.txt
+7  sed -r -i.bak âs/(,)( [0-9]{4})(.+)/\2gâ index.txt
+8  sed -r -i.bak &#39;s/(,)( [0-9]{4})(.+)/\2g&#39; index.txt
+9  sed -r -i.bak &#39;s/(,)( [0-9]{4})(.+)/\2/g&#39; index.txt</code></pre>
+<p>10 nano index.txt 11 history 12 history &gt; Module3-Exercise1-commands1.md</p>
